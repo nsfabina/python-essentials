@@ -6,5 +6,5 @@ A number of tools are essential (er, recommended) in order to follow best-practi
 
 ## Usage
 
-`conda install --file='environment.yaml'
+`conda env update --file='environment.yaml'
 
