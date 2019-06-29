@@ -1,0 +1,16 @@
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - autopep8
+  - ipdb
+  - mypy
+  - mypy_extensions
+  - pylint
+  - pytest
+  - pytest-cov
+  - sphinx
+  - sphinx-autodoc-typehints
+  - sphinx_rtd_theme
+  - tox
+

@@ -2,9 +2,10 @@
 
 ## Motivation
 
-A number of tools are essential (er, recommended) in order to follow best-practices for Python. This repository contains a conda environment file to install those tools into conda environments for other projects.
+This repository contains conda environment files to install essential tools for data science, geospatial analyses, best practices like documentation and testing, and mre. 
 
 ## Usage
 
-`conda env update --file='environment.yaml'
+`conda env update --file='environment_*.yaml'
+
 
