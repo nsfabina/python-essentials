@@ -1,9 +1,5 @@
-channels:
-  - defaults
-  - conda-forge
-dependencies:
-  - fiona
-  - gdal
-  - rasterio
-  - shapely
+fiona
+gdal
+rasterio
+shapely
 

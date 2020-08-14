@@ -1,0 +1,13 @@
+black
+conda-build
+conda-verify
+flake8
+ipdb
+isort
+pre-commit
+pylint
+pytest
+pytest-cov
+tqdm
+tox
+

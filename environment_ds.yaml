@@ -1,13 +1,9 @@
-channels:
-  - defaults
-  - conda-forge
-dependencies:
-  - jupyter
-  - keras
-  - matplotlib
-  - numpy
-  - pandas
-  - scikit-learn
-  - scipy
-  - tensorflow
+jupyter
+keras
+matplotlib
+numpy
+pandas
+scikit-learn
+scipy
+tensorflow-gpu
 
