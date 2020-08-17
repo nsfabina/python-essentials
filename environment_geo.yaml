@@ -1,5 +1,6 @@
 fiona
 gdal
+geopandas
 rasterio
 shapely
 
